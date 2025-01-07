@@ -9,16 +9,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for AI and 
 
 ## 🌱 What I'm learning
 - Advanced machine learning techniques
-- Cloud computing with AWS and Azure
 - Full-stack development with React and Node.js
 
 ## 👯 Looking to collaborate on
-- Open-source AI projects
 - Innovative machine learning models
 - Full-stack web applications
 
 ## 💬 Ask me about
-- Artificial Intelligence & Machine Learning
 - Python and its libraries (TensorFlow, PyTorch, etc.)
 - Web development (HTML, CSS, JavaScript)
 
@@ -40,8 +37,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for AI and 
 ![Sanaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiSanaul&show_icons=true&theme=radical)
 
 ## 🔗 Top Projects
-- [Project 1](https://github.com/aiSanaul/project1) - Brief description of the project
-- [Project 2](https://github.com/aiSanaul/project2) - Brief description of the project
-- [Project 3](https://github.com/aiSanaul/project3) - Brief description of the project
-
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch.
